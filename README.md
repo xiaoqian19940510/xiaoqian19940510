@@ -1,6 +1,10 @@
-# xiaoqian
-
 ## Li Qian 👋
+
+<div align="center">
+    <img src="https://github.com/xiaoqian19940510/xiaoqian/blob/main/xiaoqian.png">
+</div>
+
+<h1 align="center">Hi, I'm Li Qian</h1>
 
 ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
