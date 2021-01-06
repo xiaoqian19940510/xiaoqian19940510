@@ -1,6 +1,6 @@
 # xiaoqian
 
-## Yang Xue 👋
+## Li Qian 👋
 
 ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
@@ -10,11 +10,11 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yangxue0827&show_icons=true&theme=gotham" alt="yangxue0827" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xiaoqian19940510&show_icons=true&theme=gotham" alt="xiaoqian" />
 
 </details>
 <!--
-**yangxue0827/yangxue0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiaoqian19940510/xiaoqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
